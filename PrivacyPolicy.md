@@ -79,4 +79,4 @@ Apple のプライバシーポリシー: https://www.apple.com/jp/legal/privacy/
 プライバシーに関するご質問は以下までご連絡ください。
 
 **開発者:** monory-ai
-**メール:** ※登録するメールアドレスを記入
+**メール:** airyunon3@gmail.com
